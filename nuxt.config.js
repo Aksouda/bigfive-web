@@ -217,7 +217,7 @@ export default {
           }
         ],
         seo: true,
-        baseUrl: 'https://bigfive-test.com',
+        baseUrl: 'https://big5-io6xnbbpk-aksouda.vercel.app',
         defaultLocale: 'en',
         strategy: 'prefix_except_default',
         lazy: true,
@@ -253,7 +253,7 @@ export default {
   axios: {
   },
   sitemap: {
-    hostname: 'https://bigfive-test.com'
+    hostname: 'https://big5-io6xnbbpk-aksouda.vercel.app/'
   },
   webfontloader: {
     google: {
