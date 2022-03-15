@@ -1,11 +1,11 @@
 {
-  "version": 2,
-  "scope": "rubynor",
-  "alias": ["bigfive-test.com"],
+  "version": 3,
+  "scope": "aksouda",
+  "alias": ["verceltesturi.tk"],
   "env": {
-    "MONGODB_URI": "@mongodb_uri",
+    "MONGODB_URI": "mongodb:mongodb+srv://hamid:hamid12345@cluster0.maldw.mongodb.net/big5?retryWrites=true&w=majority",
     "MONGODB_COLLECTION": "results",
-    "BASE_URL": "https://bigfive-test.com"
+    "BASE_URL": "http://verceltesturi.tk"
   },
   "builds": [
     {
