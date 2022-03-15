@@ -290,7 +290,7 @@ export default {
     }
   },
   env: {
-    API_URL: 'https://verceltesturi.tk/api/' // TODO: Fix for dev environment
+    API_URL: 'https://www.verceltesturi.tk/api/' // TODO: Fix for dev environment
   },
   build: {
     extractCSS: true,
