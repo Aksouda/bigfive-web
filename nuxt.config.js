@@ -217,7 +217,7 @@ export default {
           }
         ],
         seo: true,
-        baseUrl: 'https://big5-io6xnbbpk-aksouda.vercel.app',
+        baseUrl: 'http://verceltesturi.tk',
         defaultLocale: 'en',
         strategy: 'prefix_except_default',
         lazy: true,
@@ -253,7 +253,7 @@ export default {
   axios: {
   },
   sitemap: {
-    hostname: 'https://big5-io6xnbbpk-aksouda.vercel.app/'
+    hostname: 'http://verceltesturi.tk'
   },
   webfontloader: {
     google: {
@@ -290,7 +290,7 @@ export default {
     }
   },
   env: {
-    API_URL: 'https://big5-io6xnbbpk-aksouda.vercel.app/api/' // TODO: Fix for dev environment
+    API_URL: 'http://verceltesturi.tk/api/' // TODO: Fix for dev environment
   },
   build: {
     extractCSS: true,
