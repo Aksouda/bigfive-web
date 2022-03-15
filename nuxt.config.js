@@ -217,7 +217,7 @@ export default {
           }
         ],
         seo: true,
-        baseUrl: 'http://verceltesturi.tk',
+        baseUrl: 'https://verceltesturi.tk',
         defaultLocale: 'en',
         strategy: 'prefix_except_default',
         lazy: true,
@@ -253,7 +253,7 @@ export default {
   axios: {
   },
   sitemap: {
-    hostname: 'http://verceltesturi.tk'
+    hostname: 'https://verceltesturi.tk'
   },
   webfontloader: {
     google: {
@@ -290,7 +290,7 @@ export default {
     }
   },
   env: {
-    API_URL: 'http://verceltesturi.tk/api/' // TODO: Fix for dev environment
+    API_URL: 'https://verceltesturi.tk/api/' // TODO: Fix for dev environment
   },
   build: {
     extractCSS: true,
