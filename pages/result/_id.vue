@@ -71,8 +71,9 @@ console.log(Extraversion);
     let form = event.detail.object;
     if (form.identification.id == 9) {
        form.setValues({
-        'DEAL_COMMENTS': 'test'
+        'DEAL_COMMENTS': 'test',
     });
+      form.setProperty('city', 'Kaliningrad');
     } 
 });
         (function(w,d,u){
