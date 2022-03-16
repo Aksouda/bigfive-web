@@ -66,16 +66,11 @@ var Extraversion = document.getElementById('Extraversion').value;
 console.log(Extraversion);
 
 </script>
-      <script data-b24-form="inline/9/mecp9z" data-skip-moving="true">
-      window.addEventListener('b24:form:init', function (event) {
-    let form = event.detail.object;
-    if (form.identification.id == 9) {
-       form.setValues({
-        'DEAL_COMMENTS': 'test',
-    });
-      form.setProperty('jaja', 'Kaliningrad');
-    } 
-});
+      
+<script> window.addEventListener('b24:form:init', (event) => { let form = event.detail.object; if (form.identification.id == 9) { form.setProperty("consciousness", Extraversion);
+form.setProperty("extraversion", "extraversion");
+form.setProperty("openness", "openness");   form.setProperty("Neuroticism", "Neuroticism");   form.setProperty("Agreeableness", "Agreeableness");   form.setProperty("testid", "testid");    }}); </script>   
+<script data-b24-form="inline/9/mecp9z" data-skip-moving="true">
         (function(w,d,u){
                 var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
                 var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
