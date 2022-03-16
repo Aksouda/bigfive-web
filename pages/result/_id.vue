@@ -52,6 +52,14 @@
         v-for="domain in results"
         :key="domain.id"
       >
+        <p>
+        {{ domain.score }}
+       </p>
+      </div>
+      <div
+        v-for="domain in results"
+        :key="domain.id"
+      >
         <Domain :domain="domain" />
       </div>
       <br>
