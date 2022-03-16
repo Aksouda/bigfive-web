@@ -55,7 +55,13 @@
         <p>
         {{ domain.score }}  {{ domain.title }}
        </p>
+  <input
+           :id="domain.title"
+           type="text"
+           name="fname"
+           :value="domain.score">
       </div>
+      
       <script data-b24-form="inline/9/mecp9z" data-skip-moving="true">
         (function(w,d,u){
                 var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
