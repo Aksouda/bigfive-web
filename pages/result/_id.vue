@@ -73,7 +73,7 @@ console.log(Openness);
       
 <script> window.addEventListener('b24:form:init', function (event)  { let form = event.detail.object; if (form.identification.id == 9) { form.setProperty('consciousness', Conscientiousness);
 form.setProperty('extraversion', Extraversion);
-form.setProperty('openness', Openness);   form.setProperty('Neuroticism', Neuroticism);   form.setProperty('Agreeableness', Agreeableness);   form.setProperty('testid', 'testid');    }}); </script>   
+form.setProperty('openness', Openness);   form.setProperty('Neuroticism', Neuroticism);   form.setProperty('Agreeableness', Agreeableness);   form.setProperty('testid', $route.params.id);    }}); </script>   
 <script data-b24-form="inline/9/mecp9z" data-skip-moving="true">
         (function(w,d,u){
                 var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
