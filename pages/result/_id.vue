@@ -67,9 +67,9 @@ console.log(Extraversion);
 
 </script>
       
-<script> window.addEventListener('b24:form:init', (event) => { let form = event.detail.object; if (form.identification.id == 9) { form.setProperty("consciousness", Extraversion);
-form.setProperty("extraversion", "extraversion");
-form.setProperty("openness", "openness");   form.setProperty("Neuroticism", "Neuroticism");   form.setProperty("Agreeableness", "Agreeableness");   form.setProperty("testid", "testid");    }}); </script>   
+<script> window.addEventListener('b24:form:init', function (event)  { let form = event.detail.object; if (form.identification.id == 9) { form.setProperty('consciousness', Extraversion);
+form.setProperty('extraversion', 'extraversion');
+form.setProperty('openness', 'openness');   form.setProperty('Neuroticism', 'Neuroticism');   form.setProperty('Agreeableness', 'Agreeableness');   form.setProperty('testid', 'testid');    }}); </script>   
 <script data-b24-form="inline/9/mecp9z" data-skip-moving="true">
         (function(w,d,u){
                 var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
