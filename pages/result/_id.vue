@@ -52,12 +52,9 @@
         v-for="domain in results"
         :key="domain.id"
       >
-        <p>
-        {{ domain.score }}  {{ domain.title }}
-       </p>
   <input
            :id="domain.title"
-           type="text"
+           type="hidden"
            name="fname"
            :value="domain.score">
       </div>
