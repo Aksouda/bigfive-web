@@ -61,17 +61,25 @@
            name="fname"
            :value="domain.score">
       </div>
-      
+      <script>
+var Extraversion = document.getElementById('Extraversion').value;
+console.log(Extraversion);
+</script>
+      <script>
+window.addEventListener('b24:form:init', (event) => {
+    let form = event.detail.object;
+    form.setValues({
+        "DEAL_COMMENTS": "test"
+    });
+});
+</script>
       <script data-b24-form="inline/9/mecp9z" data-skip-moving="true">
         (function(w,d,u){
                 var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
                 var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
         })(window,document,'https://bitrix.monefy.ro/upload/crm/form/loader_9_mecp9z.js');
 </script>
-<script>
-var Extraversion = document.getElementById('Extraversion').value;
-console.log(Extraversion);
-</script>
+
 
       <div
         v-for="domain in results"
