@@ -69,7 +69,7 @@
         })(window,document,'https://bitrix.monefy.ro/upload/crm/form/loader_9_mecp9z.js');
 </script>
 <script>
-var Extraversion = document.getElementById("Extraversion").value;
+var Extraversion = document.getElementById('Extraversion').value;
 console.log(Extraversion);
 </script>
 
