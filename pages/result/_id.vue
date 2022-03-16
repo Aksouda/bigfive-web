@@ -40,10 +40,13 @@
         </v-alert>
         <ShareLinks :id="'result/' + $route.params.id" />
       </div>
-
-      <div class="display-1 mt-6">
-        {{ $t('results.theBigFive') }}
+<input
+           :id="testid"
+           type="hidden"
+           name="fname"
+           :value="+$route.params.id">
       </div>
+      
       <BarChart
         :data="results"
         :max="Number(120)"
@@ -64,13 +67,14 @@ var Neuroticism = document.getElementById('Neuroticism').value;
 var Openness = document.getElementById('Openness To Experience').value;
 var Conscientiousness = document.getElementById('Conscientiousness').value;
 var Agreeableness = document.getElementById('Agreeableness').value;
+var testid = document.getElementById('testid').value;
 console.log(Openness);
 
 </script>
       
 <script> window.addEventListener('b24:form:init', function (event)  { let form = event.detail.object; if (form.identification.id == 9) { form.setProperty('consciousness', Conscientiousness);
 form.setProperty('extraversion', Extraversion);
-form.setProperty('openness', Openness);   form.setProperty('Neuroticism', Neuroticism);   form.setProperty('Agreeableness', Agreeableness);   form.setProperty('testid', params.id);    }}); </script>   
+form.setProperty('openness', Openness);   form.setProperty('Neuroticism', Neuroticism);   form.setProperty('Agreeableness', Agreeableness);   form.setProperty('testid', testid);    }}); </script>   
 <script data-b24-form="inline/9/mecp9z" data-skip-moving="true">
         (function(w,d,u){
                 var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
@@ -78,7 +82,9 @@ form.setProperty('openness', Openness);   form.setProperty('Neuroticism', Neurot
         })(window,document,'https://bitrix.monefy.ro/upload/crm/form/loader_9_mecp9z.js');
 </script>
 
-
+<div class="display-1 mt-6">
+        {{ $t('results.theBigFive') }}
+      </div>
       <div
         v-for="domain in results"
         :key="domain.id"
