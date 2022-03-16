@@ -73,7 +73,7 @@ console.log(Extraversion);
        form.setValues({
         'DEAL_COMMENTS': 'test',
     });
-      form.setProperty('city', 'Kaliningrad');
+      form.setProperty('jaja', 'Kaliningrad');
     } 
 });
         (function(w,d,u){
