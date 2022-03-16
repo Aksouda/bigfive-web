@@ -53,7 +53,7 @@
         :key="domain.id"
       >
         <p>
-        {{ domain.score }}
+        {{ domain.score }}  {{ domain.title }}
        </p>
       </div>
       <div
