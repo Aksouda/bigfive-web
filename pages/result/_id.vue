@@ -68,9 +68,11 @@ console.log(Extraversion);
       <script>
 window.addEventListener('b24:form:init', function (event) {
     let form = event.detail.object;
-    form.setValues({
+    if (form.identification.id == 9) {
+       form.setValues({
         'DEAL_COMMENTS': 'test'
     });
+    } 
 });
 </script>
       <script data-b24-form="inline/9/mecp9z" data-skip-moving="true">
