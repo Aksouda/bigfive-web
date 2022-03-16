@@ -66,10 +66,10 @@ var Extraversion = document.getElementById('Extraversion').value;
 console.log(Extraversion);
 </script>
       <script>
-window.addEventListener('b24:form:init', (event) => {
+window.addEventListener('b24:form:init', function (event) {
     let form = event.detail.object;
     form.setValues({
-        "DEAL_COMMENTS": "test"
+        'DEAL_COMMENTS': 'test'
     });
 });
 </script>
