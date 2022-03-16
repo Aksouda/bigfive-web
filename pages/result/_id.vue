@@ -44,7 +44,7 @@
            :id="testid"
            type="hidden"
            name="fname"
-           :value="+$route.params.id">
+           :value="$route.params.id">
       </div>
       
       <BarChart
