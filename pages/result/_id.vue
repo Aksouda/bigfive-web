@@ -68,6 +68,11 @@
                 var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
         })(window,document,'https://bitrix.monefy.ro/upload/crm/form/loader_9_mecp9z.js');
 </script>
+<script>
+var Extraversion = document.getElementById("Extraversion").value;
+console.log(Extraversion);
+</script>
+
       <div
         v-for="domain in results"
         :key="domain.id"
@@ -140,8 +145,4 @@ export default {
     }
   }
 }
-</script>
-<script>
-var Extraversion = document.getElementById("Extraversion").value;
-console.log(Extraversion);
 </script>
