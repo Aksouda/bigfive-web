@@ -140,7 +140,6 @@ export default {
     }
   }
 }
-
 var Extraversion = document.getElementById("Extraversion").value;
 console.log(Extraversion);
 </script>
