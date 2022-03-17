@@ -44,7 +44,7 @@
            :id="testid"
            type="hidden"
            name="fname"
-           :value="window.location.href">
+           :value="dadaddd">
       </div>
       
       <BarChart
