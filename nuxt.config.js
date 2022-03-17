@@ -14,14 +14,14 @@ export default {
       { hid: 'og:title', name: 'og:title', content: 'Free open-source BigFive personality traits test' },
       { hid: 'og:description', name: 'og:description', content: 'Take a free, open-source Big Five personality test. Learn to know your personality traits and compare yourself with your partner, colleagues, friends or family' },
       { hid: 'og:type', name: 'og:type', content: 'website' },
-      { hid: 'og:url', name: 'og:url', content: 'https://bigfive-test.com' },
-      { hid: 'og:image', name: 'og:image', content: 'https://bigfive-test.com/icon.png' },
+      { hid: 'og:url', name: 'og:url', content: 'https://verceltesturi.tk' },
+      { hid: 'og:image', name: 'og:image', content: 'https://verceltesturi.tk/icon.png' },
       { hid: 'twitter:card', name: 'twitter:card', content: 'summary' },
       { hid: 'twitter:site', name: 'twitter:site', content: '@maccyber' },
       { hid: 'twitter:title', name: 'twitter:title', content: 'Free open-source BigFive personality traits test' },
       { hid: 'twitter:description', name: 'twitter:description', content: 'Take a free, open-source Big Five personality test. Learn to know your personality traits and compare yourself with your partner, colleagues, friends or family' },
-      { hid: 'twitter:image', name: 'twitter:image', content: 'https://bigfive-test.com/icon.png' },
-      { hid: 'twitter:image:alt', name: 'twitter:image:alt', content: 'BigFive logo' }
+      { hid: 'twitter:image', name: 'twitter:image', content: 'https://verceltesturi.tk/icon.png' },
+      { hid: 'twitter:image:alt', name: 'twitter:image:alt', content: 'Recruto logo' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
@@ -39,7 +39,7 @@ export default {
   optimizeCSS: true,
   pwa: {
     manifest: {
-      name: 'bigfive',
+      name: 'Recruto',
       short_name: 'b5'
     }
   },
@@ -278,7 +278,7 @@ export default {
       themes: {
         light: {
           primary: '#000000',
-          secondary: '#ff0080',
+          secondary: '#39b3ed',
           accent: '#607d8b',
           error: '#f44336',
           warning: '#ff9800',
