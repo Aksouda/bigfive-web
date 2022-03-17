@@ -54,9 +54,5 @@
   {
     "id": "id",
     "text": "Indonesian"
-  },
-  {
-    "id": "en1",
-    "text": "Romanian"
   }
 ]
