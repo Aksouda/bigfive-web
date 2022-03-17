@@ -40,12 +40,7 @@
         </v-alert>
         <ShareLinks :id="'result/' + $route.params.id" />
       </div>
-<input
-           :id="testid"
-           type="hidden"
-           name="fname"
-           :value="dadaddd">
-      </div>
+
       
       <BarChart
         :data="results"
@@ -67,7 +62,7 @@ var Neuroticism = document.getElementById('Neuroticism').value;
 var Openness = document.getElementById('Openness To Experience').value;
 var Conscientiousness = document.getElementById('Conscientiousness').value;
 var Agreeableness = document.getElementById('Agreeableness').value;
-var testid = document.getElementById('testid').value;
+var testid = window.location.href;
 console.log(Openness);
 
 </script>
