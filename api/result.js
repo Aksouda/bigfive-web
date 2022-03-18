@@ -1,8 +1,8 @@
 const { ObjectId } = require('mongodb')
 const validMongoId = require('./lib/valid-mongoid')
 const connectToDb = require('./lib/connect-to-db')
-const getResult = require('@alheimsins/b5-result-text')
-const { getInfo } = require('@alheimsins/b5-result-text')
+const getResult = require('@aksouda/b5-result-text')
+const { getInfo } = require('@aksouda/b5-result-text')
 const calculateScore = require('@alheimsins/bigfive-calculate-score')
 
 const { languages: availableLanguages } = getInfo()
