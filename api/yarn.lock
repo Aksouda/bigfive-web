@@ -12,16 +12,6 @@
   resolved "https://registry.yarnpkg.com/@alheimsins/bigfive-calculate-score/-/bigfive-calculate-score-2.0.5.tgz#b9a2ad2287203d57cd7f3b78e3a87f2cb2745493"
   integrity sha512-bGYZHutlbON1FOyR2lNRK8xgz9fYvksH8cd4fWjSKMWc3qVsp36bIcscj0KD3dfH9XBF2tanTV8Vy+tjQS1u0Q==
 
-@alheimsin/b5-result-text@4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@alheimsins/b5-result-text/-/b5-result-text-4.0.0.tgz#e6a3dbb6bc081e8ca36721506eb9d35bd302d03b"
-  integrity sha512-tj4Y02BXom5bAisBH/k5XRsv6asVIsrWE4+UThvtV401Z8UjXcoVqBO21Ih4FAfMUANb8itxkDRVMVW9WZrTsA==
-
-"@alheimsin/bigfive-calculate-score@2.0.5":
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/@alheimsins/bigfive-calculate-score/-/bigfive-calculate-score-2.0.5.tgz#b9a2ad2287203d57cd7f3b78e3a87f2cb2745493"
-  integrity sha512-bGYZHutlbON1FOyR2lNRK8xgz9fYvksH8cd4fWjSKMWc3qVsp36bIcscj0KD3dfH9XBF2tanTV8Vy+tjQS1u0Q==
-
 "@hapi/address@^4.1.0":
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-4.1.0.tgz#d60c5c0d930e77456fdcde2598e77302e2955e1d"
