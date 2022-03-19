@@ -1,0 +1,2342 @@
+[
+  {
+    "name": "about___en",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/about"
+  },
+  {
+    "name": "agreeableness___en",
+    "path": "/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/agreeableness"
+  },
+  {
+    "name": "index___ar",
+    "path": "/ar",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/ar"
+  },
+  {
+    "name": "articles___en",
+    "path": "/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/articles"
+  },
+  {
+    "name": "big_five___en",
+    "path": "/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/big_five"
+  },
+  {
+    "name": "compare___en",
+    "path": "/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/compare"
+  },
+  {
+    "name": "conscientiousness___en",
+    "path": "/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/conscientiousness"
+  },
+  {
+    "name": "index___da",
+    "path": "/da",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/da"
+  },
+  {
+    "name": "index___de",
+    "path": "/de",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/de"
+  },
+  {
+    "name": "index___es",
+    "path": "/es",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/es"
+  },
+  {
+    "name": "extraversion___en",
+    "path": "/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/extraversion"
+  },
+  {
+    "name": "faq___en",
+    "path": "/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/faq"
+  },
+  {
+    "name": "index___fi",
+    "path": "/fi",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/fi"
+  },
+  {
+    "name": "index___fr",
+    "path": "/fr",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/fr"
+  },
+  {
+    "name": "index___hi",
+    "path": "/hi",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/hi"
+  },
+  {
+    "name": "index___id",
+    "path": "/id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/id"
+  },
+  {
+    "name": "index___is",
+    "path": "/is",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/is"
+  },
+  {
+    "name": "index___it",
+    "path": "/it",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/it"
+  },
+  {
+    "name": "index___ja",
+    "path": "/ja",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/ja"
+  },
+  {
+    "name": "neuroticism___en",
+    "path": "/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/neuroticism"
+  },
+  {
+    "name": "index___no",
+    "path": "/no",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/no"
+  },
+  {
+    "name": "openness_to_experience___en",
+    "path": "/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/openness_to_experience"
+  },
+  {
+    "name": "index___pl",
+    "path": "/pl",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/pl"
+  },
+  {
+    "name": "privacy___en",
+    "path": "/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/privacy"
+  },
+  {
+    "name": "products___en",
+    "path": "/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/products"
+  },
+  {
+    "name": "index___pt",
+    "path": "/pt",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/pt"
+  },
+  {
+    "name": "result___en",
+    "path": "/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/result"
+  },
+  {
+    "name": "index___ru",
+    "path": "/ru",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/ru"
+  },
+  {
+    "name": "index___sv",
+    "path": "/sv",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/sv"
+  },
+  {
+    "name": "test___en",
+    "path": "/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/test"
+  },
+  {
+    "name": "index___th",
+    "path": "/th",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/th"
+  },
+  {
+    "name": "index___uk",
+    "path": "/uk",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/uk"
+  },
+  {
+    "name": "index___zh-Hans",
+    "path": "/zh-Hans",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/zh-Hans"
+  },
+  {
+    "name": "about___ar",
+    "path": "/ar/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/ar/about"
+  },
+  {
+    "name": "agreeableness___ar",
+    "path": "/ar/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/ar/agreeableness"
+  },
+  {
+    "name": "articles___ar",
+    "path": "/ar/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/ar/articles"
+  },
+  {
+    "name": "big_five___ar",
+    "path": "/ar/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/ar/big_five"
+  },
+  {
+    "name": "compare___ar",
+    "path": "/ar/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/ar/compare"
+  },
+  {
+    "name": "conscientiousness___ar",
+    "path": "/ar/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/ar/conscientiousness"
+  },
+  {
+    "name": "extraversion___ar",
+    "path": "/ar/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/ar/extraversion"
+  },
+  {
+    "name": "faq___ar",
+    "path": "/ar/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/ar/faq"
+  },
+  {
+    "name": "neuroticism___ar",
+    "path": "/ar/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/ar/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___ar",
+    "path": "/ar/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/ar/openness_to_experience"
+  },
+  {
+    "name": "privacy___ar",
+    "path": "/ar/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/ar/privacy"
+  },
+  {
+    "name": "products___ar",
+    "path": "/ar/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/ar/products"
+  },
+  {
+    "name": "result___ar",
+    "path": "/ar/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/ar/result"
+  },
+  {
+    "name": "test___ar",
+    "path": "/ar/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/ar/test"
+  },
+  {
+    "name": "about___da",
+    "path": "/da/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/da/about"
+  },
+  {
+    "name": "agreeableness___da",
+    "path": "/da/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/da/agreeableness"
+  },
+  {
+    "name": "articles___da",
+    "path": "/da/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/da/articles"
+  },
+  {
+    "name": "big_five___da",
+    "path": "/da/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/da/big_five"
+  },
+  {
+    "name": "compare___da",
+    "path": "/da/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/da/compare"
+  },
+  {
+    "name": "conscientiousness___da",
+    "path": "/da/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/da/conscientiousness"
+  },
+  {
+    "name": "extraversion___da",
+    "path": "/da/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/da/extraversion"
+  },
+  {
+    "name": "faq___da",
+    "path": "/da/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/da/faq"
+  },
+  {
+    "name": "neuroticism___da",
+    "path": "/da/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/da/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___da",
+    "path": "/da/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/da/openness_to_experience"
+  },
+  {
+    "name": "privacy___da",
+    "path": "/da/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/da/privacy"
+  },
+  {
+    "name": "products___da",
+    "path": "/da/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/da/products"
+  },
+  {
+    "name": "result___da",
+    "path": "/da/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/da/result"
+  },
+  {
+    "name": "test___da",
+    "path": "/da/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/da/test"
+  },
+  {
+    "name": "about___de",
+    "path": "/de/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/de/about"
+  },
+  {
+    "name": "agreeableness___de",
+    "path": "/de/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/de/agreeableness"
+  },
+  {
+    "name": "articles___de",
+    "path": "/de/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/de/articles"
+  },
+  {
+    "name": "big_five___de",
+    "path": "/de/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/de/big_five"
+  },
+  {
+    "name": "compare___de",
+    "path": "/de/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/de/compare"
+  },
+  {
+    "name": "conscientiousness___de",
+    "path": "/de/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/de/conscientiousness"
+  },
+  {
+    "name": "extraversion___de",
+    "path": "/de/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/de/extraversion"
+  },
+  {
+    "name": "faq___de",
+    "path": "/de/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/de/faq"
+  },
+  {
+    "name": "neuroticism___de",
+    "path": "/de/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/de/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___de",
+    "path": "/de/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/de/openness_to_experience"
+  },
+  {
+    "name": "privacy___de",
+    "path": "/de/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/de/privacy"
+  },
+  {
+    "name": "products___de",
+    "path": "/de/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/de/products"
+  },
+  {
+    "name": "result___de",
+    "path": "/de/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/de/result"
+  },
+  {
+    "name": "test___de",
+    "path": "/de/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/de/test"
+  },
+  {
+    "name": "about___es",
+    "path": "/es/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/es/about"
+  },
+  {
+    "name": "agreeableness___es",
+    "path": "/es/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/es/agreeableness"
+  },
+  {
+    "name": "articles___es",
+    "path": "/es/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/es/articles"
+  },
+  {
+    "name": "big_five___es",
+    "path": "/es/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/es/big_five"
+  },
+  {
+    "name": "compare___es",
+    "path": "/es/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/es/compare"
+  },
+  {
+    "name": "conscientiousness___es",
+    "path": "/es/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/es/conscientiousness"
+  },
+  {
+    "name": "extraversion___es",
+    "path": "/es/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/es/extraversion"
+  },
+  {
+    "name": "faq___es",
+    "path": "/es/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/es/faq"
+  },
+  {
+    "name": "neuroticism___es",
+    "path": "/es/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/es/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___es",
+    "path": "/es/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/es/openness_to_experience"
+  },
+  {
+    "name": "privacy___es",
+    "path": "/es/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/es/privacy"
+  },
+  {
+    "name": "products___es",
+    "path": "/es/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/es/products"
+  },
+  {
+    "name": "result___es",
+    "path": "/es/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/es/result"
+  },
+  {
+    "name": "test___es",
+    "path": "/es/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/es/test"
+  },
+  {
+    "name": "about___fi",
+    "path": "/fi/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/fi/about"
+  },
+  {
+    "name": "agreeableness___fi",
+    "path": "/fi/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/fi/agreeableness"
+  },
+  {
+    "name": "articles___fi",
+    "path": "/fi/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/fi/articles"
+  },
+  {
+    "name": "big_five___fi",
+    "path": "/fi/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/fi/big_five"
+  },
+  {
+    "name": "compare___fi",
+    "path": "/fi/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/fi/compare"
+  },
+  {
+    "name": "conscientiousness___fi",
+    "path": "/fi/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/fi/conscientiousness"
+  },
+  {
+    "name": "extraversion___fi",
+    "path": "/fi/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/fi/extraversion"
+  },
+  {
+    "name": "faq___fi",
+    "path": "/fi/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/fi/faq"
+  },
+  {
+    "name": "neuroticism___fi",
+    "path": "/fi/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/fi/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___fi",
+    "path": "/fi/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/fi/openness_to_experience"
+  },
+  {
+    "name": "privacy___fi",
+    "path": "/fi/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/fi/privacy"
+  },
+  {
+    "name": "products___fi",
+    "path": "/fi/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/fi/products"
+  },
+  {
+    "name": "result___fi",
+    "path": "/fi/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/fi/result"
+  },
+  {
+    "name": "test___fi",
+    "path": "/fi/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/fi/test"
+  },
+  {
+    "name": "about___fr",
+    "path": "/fr/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/fr/about"
+  },
+  {
+    "name": "agreeableness___fr",
+    "path": "/fr/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/fr/agreeableness"
+  },
+  {
+    "name": "articles___fr",
+    "path": "/fr/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/fr/articles"
+  },
+  {
+    "name": "big_five___fr",
+    "path": "/fr/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/fr/big_five"
+  },
+  {
+    "name": "compare___fr",
+    "path": "/fr/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/fr/compare"
+  },
+  {
+    "name": "conscientiousness___fr",
+    "path": "/fr/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/fr/conscientiousness"
+  },
+  {
+    "name": "extraversion___fr",
+    "path": "/fr/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/fr/extraversion"
+  },
+  {
+    "name": "faq___fr",
+    "path": "/fr/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/fr/faq"
+  },
+  {
+    "name": "neuroticism___fr",
+    "path": "/fr/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/fr/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___fr",
+    "path": "/fr/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/fr/openness_to_experience"
+  },
+  {
+    "name": "privacy___fr",
+    "path": "/fr/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/fr/privacy"
+  },
+  {
+    "name": "products___fr",
+    "path": "/fr/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/fr/products"
+  },
+  {
+    "name": "result___fr",
+    "path": "/fr/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/fr/result"
+  },
+  {
+    "name": "test___fr",
+    "path": "/fr/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/fr/test"
+  },
+  {
+    "name": "about___hi",
+    "path": "/hi/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/hi/about"
+  },
+  {
+    "name": "agreeableness___hi",
+    "path": "/hi/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/hi/agreeableness"
+  },
+  {
+    "name": "articles___hi",
+    "path": "/hi/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/hi/articles"
+  },
+  {
+    "name": "big_five___hi",
+    "path": "/hi/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/hi/big_five"
+  },
+  {
+    "name": "compare___hi",
+    "path": "/hi/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/hi/compare"
+  },
+  {
+    "name": "conscientiousness___hi",
+    "path": "/hi/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/hi/conscientiousness"
+  },
+  {
+    "name": "extraversion___hi",
+    "path": "/hi/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/hi/extraversion"
+  },
+  {
+    "name": "faq___hi",
+    "path": "/hi/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/hi/faq"
+  },
+  {
+    "name": "neuroticism___hi",
+    "path": "/hi/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/hi/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___hi",
+    "path": "/hi/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/hi/openness_to_experience"
+  },
+  {
+    "name": "privacy___hi",
+    "path": "/hi/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/hi/privacy"
+  },
+  {
+    "name": "products___hi",
+    "path": "/hi/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/hi/products"
+  },
+  {
+    "name": "result___hi",
+    "path": "/hi/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/hi/result"
+  },
+  {
+    "name": "test___hi",
+    "path": "/hi/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/hi/test"
+  },
+  {
+    "name": "about___id",
+    "path": "/id/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/id/about"
+  },
+  {
+    "name": "agreeableness___id",
+    "path": "/id/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/id/agreeableness"
+  },
+  {
+    "name": "articles___id",
+    "path": "/id/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/id/articles"
+  },
+  {
+    "name": "big_five___id",
+    "path": "/id/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/id/big_five"
+  },
+  {
+    "name": "compare___id",
+    "path": "/id/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/id/compare"
+  },
+  {
+    "name": "conscientiousness___id",
+    "path": "/id/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/id/conscientiousness"
+  },
+  {
+    "name": "extraversion___id",
+    "path": "/id/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/id/extraversion"
+  },
+  {
+    "name": "faq___id",
+    "path": "/id/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/id/faq"
+  },
+  {
+    "name": "neuroticism___id",
+    "path": "/id/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/id/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___id",
+    "path": "/id/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/id/openness_to_experience"
+  },
+  {
+    "name": "privacy___id",
+    "path": "/id/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/id/privacy"
+  },
+  {
+    "name": "products___id",
+    "path": "/id/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/id/products"
+  },
+  {
+    "name": "result___id",
+    "path": "/id/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/id/result"
+  },
+  {
+    "name": "test___id",
+    "path": "/id/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/id/test"
+  },
+  {
+    "name": "about___is",
+    "path": "/is/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/is/about"
+  },
+  {
+    "name": "agreeableness___is",
+    "path": "/is/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/is/agreeableness"
+  },
+  {
+    "name": "articles___is",
+    "path": "/is/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/is/articles"
+  },
+  {
+    "name": "big_five___is",
+    "path": "/is/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/is/big_five"
+  },
+  {
+    "name": "compare___is",
+    "path": "/is/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/is/compare"
+  },
+  {
+    "name": "conscientiousness___is",
+    "path": "/is/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/is/conscientiousness"
+  },
+  {
+    "name": "extraversion___is",
+    "path": "/is/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/is/extraversion"
+  },
+  {
+    "name": "faq___is",
+    "path": "/is/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/is/faq"
+  },
+  {
+    "name": "neuroticism___is",
+    "path": "/is/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/is/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___is",
+    "path": "/is/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/is/openness_to_experience"
+  },
+  {
+    "name": "privacy___is",
+    "path": "/is/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/is/privacy"
+  },
+  {
+    "name": "products___is",
+    "path": "/is/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/is/products"
+  },
+  {
+    "name": "result___is",
+    "path": "/is/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/is/result"
+  },
+  {
+    "name": "test___is",
+    "path": "/is/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/is/test"
+  },
+  {
+    "name": "about___it",
+    "path": "/it/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/it/about"
+  },
+  {
+    "name": "agreeableness___it",
+    "path": "/it/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/it/agreeableness"
+  },
+  {
+    "name": "articles___it",
+    "path": "/it/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/it/articles"
+  },
+  {
+    "name": "big_five___it",
+    "path": "/it/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/it/big_five"
+  },
+  {
+    "name": "compare___it",
+    "path": "/it/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/it/compare"
+  },
+  {
+    "name": "conscientiousness___it",
+    "path": "/it/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/it/conscientiousness"
+  },
+  {
+    "name": "extraversion___it",
+    "path": "/it/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/it/extraversion"
+  },
+  {
+    "name": "faq___it",
+    "path": "/it/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/it/faq"
+  },
+  {
+    "name": "neuroticism___it",
+    "path": "/it/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/it/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___it",
+    "path": "/it/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/it/openness_to_experience"
+  },
+  {
+    "name": "privacy___it",
+    "path": "/it/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/it/privacy"
+  },
+  {
+    "name": "products___it",
+    "path": "/it/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/it/products"
+  },
+  {
+    "name": "result___it",
+    "path": "/it/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/it/result"
+  },
+  {
+    "name": "test___it",
+    "path": "/it/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/it/test"
+  },
+  {
+    "name": "about___ja",
+    "path": "/ja/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/ja/about"
+  },
+  {
+    "name": "agreeableness___ja",
+    "path": "/ja/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/ja/agreeableness"
+  },
+  {
+    "name": "articles___ja",
+    "path": "/ja/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/ja/articles"
+  },
+  {
+    "name": "big_five___ja",
+    "path": "/ja/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/ja/big_five"
+  },
+  {
+    "name": "compare___ja",
+    "path": "/ja/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/ja/compare"
+  },
+  {
+    "name": "conscientiousness___ja",
+    "path": "/ja/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/ja/conscientiousness"
+  },
+  {
+    "name": "extraversion___ja",
+    "path": "/ja/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/ja/extraversion"
+  },
+  {
+    "name": "faq___ja",
+    "path": "/ja/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/ja/faq"
+  },
+  {
+    "name": "neuroticism___ja",
+    "path": "/ja/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/ja/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___ja",
+    "path": "/ja/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/ja/openness_to_experience"
+  },
+  {
+    "name": "privacy___ja",
+    "path": "/ja/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/ja/privacy"
+  },
+  {
+    "name": "products___ja",
+    "path": "/ja/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/ja/products"
+  },
+  {
+    "name": "result___ja",
+    "path": "/ja/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/ja/result"
+  },
+  {
+    "name": "test___ja",
+    "path": "/ja/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/ja/test"
+  },
+  {
+    "name": "about___no",
+    "path": "/no/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/no/about"
+  },
+  {
+    "name": "agreeableness___no",
+    "path": "/no/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/no/agreeableness"
+  },
+  {
+    "name": "articles___no",
+    "path": "/no/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/no/articles"
+  },
+  {
+    "name": "big_five___no",
+    "path": "/no/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/no/big_five"
+  },
+  {
+    "name": "compare___no",
+    "path": "/no/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/no/compare"
+  },
+  {
+    "name": "conscientiousness___no",
+    "path": "/no/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/no/conscientiousness"
+  },
+  {
+    "name": "extraversion___no",
+    "path": "/no/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/no/extraversion"
+  },
+  {
+    "name": "faq___no",
+    "path": "/no/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/no/faq"
+  },
+  {
+    "name": "neuroticism___no",
+    "path": "/no/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/no/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___no",
+    "path": "/no/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/no/openness_to_experience"
+  },
+  {
+    "name": "privacy___no",
+    "path": "/no/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/no/privacy"
+  },
+  {
+    "name": "products___no",
+    "path": "/no/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/no/products"
+  },
+  {
+    "name": "result___no",
+    "path": "/no/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/no/result"
+  },
+  {
+    "name": "test___no",
+    "path": "/no/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/no/test"
+  },
+  {
+    "name": "about___pl",
+    "path": "/pl/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/pl/about"
+  },
+  {
+    "name": "agreeableness___pl",
+    "path": "/pl/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/pl/agreeableness"
+  },
+  {
+    "name": "articles___pl",
+    "path": "/pl/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/pl/articles"
+  },
+  {
+    "name": "big_five___pl",
+    "path": "/pl/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/pl/big_five"
+  },
+  {
+    "name": "compare___pl",
+    "path": "/pl/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/pl/compare"
+  },
+  {
+    "name": "conscientiousness___pl",
+    "path": "/pl/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/pl/conscientiousness"
+  },
+  {
+    "name": "extraversion___pl",
+    "path": "/pl/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/pl/extraversion"
+  },
+  {
+    "name": "faq___pl",
+    "path": "/pl/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/pl/faq"
+  },
+  {
+    "name": "neuroticism___pl",
+    "path": "/pl/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/pl/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___pl",
+    "path": "/pl/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/pl/openness_to_experience"
+  },
+  {
+    "name": "privacy___pl",
+    "path": "/pl/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/pl/privacy"
+  },
+  {
+    "name": "products___pl",
+    "path": "/pl/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/pl/products"
+  },
+  {
+    "name": "result___pl",
+    "path": "/pl/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/pl/result"
+  },
+  {
+    "name": "test___pl",
+    "path": "/pl/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/pl/test"
+  },
+  {
+    "name": "about___pt",
+    "path": "/pt/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/pt/about"
+  },
+  {
+    "name": "agreeableness___pt",
+    "path": "/pt/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/pt/agreeableness"
+  },
+  {
+    "name": "articles___pt",
+    "path": "/pt/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/pt/articles"
+  },
+  {
+    "name": "big_five___pt",
+    "path": "/pt/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/pt/big_five"
+  },
+  {
+    "name": "compare___pt",
+    "path": "/pt/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/pt/compare"
+  },
+  {
+    "name": "conscientiousness___pt",
+    "path": "/pt/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/pt/conscientiousness"
+  },
+  {
+    "name": "extraversion___pt",
+    "path": "/pt/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/pt/extraversion"
+  },
+  {
+    "name": "faq___pt",
+    "path": "/pt/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/pt/faq"
+  },
+  {
+    "name": "neuroticism___pt",
+    "path": "/pt/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/pt/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___pt",
+    "path": "/pt/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/pt/openness_to_experience"
+  },
+  {
+    "name": "privacy___pt",
+    "path": "/pt/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/pt/privacy"
+  },
+  {
+    "name": "products___pt",
+    "path": "/pt/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/pt/products"
+  },
+  {
+    "name": "result___pt",
+    "path": "/pt/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/pt/result"
+  },
+  {
+    "name": "test___pt",
+    "path": "/pt/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/pt/test"
+  },
+  {
+    "name": "about___ru",
+    "path": "/ru/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/ru/about"
+  },
+  {
+    "name": "agreeableness___ru",
+    "path": "/ru/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/ru/agreeableness"
+  },
+  {
+    "name": "articles___ru",
+    "path": "/ru/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/ru/articles"
+  },
+  {
+    "name": "big_five___ru",
+    "path": "/ru/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/ru/big_five"
+  },
+  {
+    "name": "compare___ru",
+    "path": "/ru/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/ru/compare"
+  },
+  {
+    "name": "conscientiousness___ru",
+    "path": "/ru/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/ru/conscientiousness"
+  },
+  {
+    "name": "extraversion___ru",
+    "path": "/ru/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/ru/extraversion"
+  },
+  {
+    "name": "faq___ru",
+    "path": "/ru/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/ru/faq"
+  },
+  {
+    "name": "neuroticism___ru",
+    "path": "/ru/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/ru/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___ru",
+    "path": "/ru/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/ru/openness_to_experience"
+  },
+  {
+    "name": "privacy___ru",
+    "path": "/ru/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/ru/privacy"
+  },
+  {
+    "name": "products___ru",
+    "path": "/ru/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/ru/products"
+  },
+  {
+    "name": "result___ru",
+    "path": "/ru/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/ru/result"
+  },
+  {
+    "name": "test___ru",
+    "path": "/ru/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/ru/test"
+  },
+  {
+    "name": "about___sv",
+    "path": "/sv/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/sv/about"
+  },
+  {
+    "name": "agreeableness___sv",
+    "path": "/sv/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/sv/agreeableness"
+  },
+  {
+    "name": "articles___sv",
+    "path": "/sv/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/sv/articles"
+  },
+  {
+    "name": "big_five___sv",
+    "path": "/sv/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/sv/big_five"
+  },
+  {
+    "name": "compare___sv",
+    "path": "/sv/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/sv/compare"
+  },
+  {
+    "name": "conscientiousness___sv",
+    "path": "/sv/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/sv/conscientiousness"
+  },
+  {
+    "name": "extraversion___sv",
+    "path": "/sv/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/sv/extraversion"
+  },
+  {
+    "name": "faq___sv",
+    "path": "/sv/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/sv/faq"
+  },
+  {
+    "name": "neuroticism___sv",
+    "path": "/sv/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/sv/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___sv",
+    "path": "/sv/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/sv/openness_to_experience"
+  },
+  {
+    "name": "privacy___sv",
+    "path": "/sv/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/sv/privacy"
+  },
+  {
+    "name": "products___sv",
+    "path": "/sv/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/sv/products"
+  },
+  {
+    "name": "result___sv",
+    "path": "/sv/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/sv/result"
+  },
+  {
+    "name": "test___sv",
+    "path": "/sv/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/sv/test"
+  },
+  {
+    "name": "about___th",
+    "path": "/th/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/th/about"
+  },
+  {
+    "name": "agreeableness___th",
+    "path": "/th/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/th/agreeableness"
+  },
+  {
+    "name": "articles___th",
+    "path": "/th/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/th/articles"
+  },
+  {
+    "name": "big_five___th",
+    "path": "/th/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/th/big_five"
+  },
+  {
+    "name": "compare___th",
+    "path": "/th/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/th/compare"
+  },
+  {
+    "name": "conscientiousness___th",
+    "path": "/th/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/th/conscientiousness"
+  },
+  {
+    "name": "extraversion___th",
+    "path": "/th/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/th/extraversion"
+  },
+  {
+    "name": "faq___th",
+    "path": "/th/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/th/faq"
+  },
+  {
+    "name": "neuroticism___th",
+    "path": "/th/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/th/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___th",
+    "path": "/th/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/th/openness_to_experience"
+  },
+  {
+    "name": "privacy___th",
+    "path": "/th/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/th/privacy"
+  },
+  {
+    "name": "products___th",
+    "path": "/th/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/th/products"
+  },
+  {
+    "name": "result___th",
+    "path": "/th/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/th/result"
+  },
+  {
+    "name": "test___th",
+    "path": "/th/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/th/test"
+  },
+  {
+    "name": "about___uk",
+    "path": "/uk/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/uk/about"
+  },
+  {
+    "name": "agreeableness___uk",
+    "path": "/uk/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/uk/agreeableness"
+  },
+  {
+    "name": "articles___uk",
+    "path": "/uk/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/uk/articles"
+  },
+  {
+    "name": "big_five___uk",
+    "path": "/uk/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/uk/big_five"
+  },
+  {
+    "name": "compare___uk",
+    "path": "/uk/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/uk/compare"
+  },
+  {
+    "name": "conscientiousness___uk",
+    "path": "/uk/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/uk/conscientiousness"
+  },
+  {
+    "name": "extraversion___uk",
+    "path": "/uk/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/uk/extraversion"
+  },
+  {
+    "name": "faq___uk",
+    "path": "/uk/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/uk/faq"
+  },
+  {
+    "name": "neuroticism___uk",
+    "path": "/uk/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/uk/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___uk",
+    "path": "/uk/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/uk/openness_to_experience"
+  },
+  {
+    "name": "privacy___uk",
+    "path": "/uk/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/uk/privacy"
+  },
+  {
+    "name": "products___uk",
+    "path": "/uk/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/uk/products"
+  },
+  {
+    "name": "result___uk",
+    "path": "/uk/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/uk/result"
+  },
+  {
+    "name": "test___uk",
+    "path": "/uk/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/uk/test"
+  },
+  {
+    "name": "about___zh-Hans",
+    "path": "/zh-Hans/about",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "url": "/zh-Hans/about"
+  },
+  {
+    "name": "agreeableness___zh-Hans",
+    "path": "/zh-Hans/agreeableness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\agreeableness.vue",
+    "chunkName": "pages/agreeableness",
+    "url": "/zh-Hans/agreeableness"
+  },
+  {
+    "name": "articles___zh-Hans",
+    "path": "/zh-Hans/articles",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\articles.vue",
+    "chunkName": "pages/articles",
+    "url": "/zh-Hans/articles"
+  },
+  {
+    "name": "big_five___zh-Hans",
+    "path": "/zh-Hans/big_five",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\big_five.vue",
+    "chunkName": "pages/big_five",
+    "url": "/zh-Hans/big_five"
+  },
+  {
+    "name": "compare___zh-Hans",
+    "path": "/zh-Hans/compare",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\index.vue",
+    "chunkName": "pages/compare/index",
+    "url": "/zh-Hans/compare"
+  },
+  {
+    "name": "conscientiousness___zh-Hans",
+    "path": "/zh-Hans/conscientiousness",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\conscientiousness.vue",
+    "chunkName": "pages/conscientiousness",
+    "url": "/zh-Hans/conscientiousness"
+  },
+  {
+    "name": "extraversion___zh-Hans",
+    "path": "/zh-Hans/extraversion",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\extraversion.vue",
+    "chunkName": "pages/extraversion",
+    "url": "/zh-Hans/extraversion"
+  },
+  {
+    "name": "faq___zh-Hans",
+    "path": "/zh-Hans/faq",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "url": "/zh-Hans/faq"
+  },
+  {
+    "name": "neuroticism___zh-Hans",
+    "path": "/zh-Hans/neuroticism",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\neuroticism.vue",
+    "chunkName": "pages/neuroticism",
+    "url": "/zh-Hans/neuroticism"
+  },
+  {
+    "name": "openness_to_experience___zh-Hans",
+    "path": "/zh-Hans/openness_to_experience",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\openness_to_experience.vue",
+    "chunkName": "pages/openness_to_experience",
+    "url": "/zh-Hans/openness_to_experience"
+  },
+  {
+    "name": "privacy___zh-Hans",
+    "path": "/zh-Hans/privacy",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\privacy.vue",
+    "chunkName": "pages/privacy",
+    "url": "/zh-Hans/privacy"
+  },
+  {
+    "name": "products___zh-Hans",
+    "path": "/zh-Hans/products",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\products.vue",
+    "chunkName": "pages/products",
+    "url": "/zh-Hans/products"
+  },
+  {
+    "name": "result___zh-Hans",
+    "path": "/zh-Hans/result",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\index.vue",
+    "chunkName": "pages/result/index",
+    "url": "/zh-Hans/result"
+  },
+  {
+    "name": "test___zh-Hans",
+    "path": "/zh-Hans/test",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "url": "/zh-Hans/test"
+  },
+  {
+    "name": "compare-id___ar",
+    "path": "/ar/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___ar",
+    "path": "/ar/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___da",
+    "path": "/da/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___da",
+    "path": "/da/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___de",
+    "path": "/de/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___de",
+    "path": "/de/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___es",
+    "path": "/es/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___es",
+    "path": "/es/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___fi",
+    "path": "/fi/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___fi",
+    "path": "/fi/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___fr",
+    "path": "/fr/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___fr",
+    "path": "/fr/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___hi",
+    "path": "/hi/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___hi",
+    "path": "/hi/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___id",
+    "path": "/id/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___id",
+    "path": "/id/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___is",
+    "path": "/is/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___is",
+    "path": "/is/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___it",
+    "path": "/it/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___it",
+    "path": "/it/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___ja",
+    "path": "/ja/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___ja",
+    "path": "/ja/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___no",
+    "path": "/no/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___no",
+    "path": "/no/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___pl",
+    "path": "/pl/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___pl",
+    "path": "/pl/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___pt",
+    "path": "/pt/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___pt",
+    "path": "/pt/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___ru",
+    "path": "/ru/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___ru",
+    "path": "/ru/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___sv",
+    "path": "/sv/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___sv",
+    "path": "/sv/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___th",
+    "path": "/th/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___th",
+    "path": "/th/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___uk",
+    "path": "/uk/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___uk",
+    "path": "/uk/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___zh-Hans",
+    "path": "/zh-Hans/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___zh-Hans",
+    "path": "/zh-Hans/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "compare-id___en",
+    "path": "/compare/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\compare\\\\_id.vue",
+    "chunkName": "pages/compare/_id"
+  },
+  {
+    "name": "result-id___en",
+    "path": "/result/:id",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\result\\\\_id.vue",
+    "chunkName": "pages/result/_id"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "C:\\\\Users\\\\hamid\\\\Downloads\\\\test recruto\\\\bigfive-web\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/"
+  }
+]

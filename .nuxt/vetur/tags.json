@@ -1,0 +1,68 @@
+{
+  "BarChart": {
+    "description": "Auto imported from components/BarChart.vue"
+  },
+  "BarChartCompare": {
+    "description": "Auto imported from components/BarChartCompare.vue"
+  },
+  "Domain": {
+    "description": "Auto imported from components/Domain.vue"
+  },
+  "DomainCompare": {
+    "description": "Auto imported from components/DomainCompare.vue"
+  },
+  "Error": {
+    "description": "Auto imported from components/Error.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Highlights": {
+    "description": "Auto imported from components/Highlights.vue"
+  },
+  "LanguageSwitcher": {
+    "description": "Auto imported from components/LanguageSwitcher.vue"
+  },
+  "ShareLinks": {
+    "description": "Auto imported from components/ShareLinks.vue"
+  },
+  "TestLanguageSwitcher": {
+    "description": "Auto imported from components/TestLanguageSwitcher.vue"
+  },
+  "Timer": {
+    "description": "Auto imported from components/Timer.vue"
+  },
+  "Toolbar": {
+    "description": "Auto imported from components/Toolbar.vue"
+  },
+  "Wrapper": {
+    "description": "Auto imported from components/Wrapper.vue"
+  },
+  "FormAge": {
+    "description": "Auto imported from components/form/Age.vue"
+  },
+  "FormConfirm": {
+    "description": "Auto imported from components/form/Confirm.vue"
+  },
+  "FormGender": {
+    "description": "Auto imported from components/form/Gender.vue"
+  },
+  "Form": {
+    "description": "Auto imported from components/form/index.js"
+  },
+  "FormInfo": {
+    "description": "Auto imported from components/form/Info.vue"
+  },
+  "FormLanguage": {
+    "description": "Auto imported from components/form/Language.vue"
+  },
+  "ProductFeatureList": {
+    "description": "Auto imported from components/product/FeatureList.vue"
+  },
+  "ProductCard": {
+    "description": "Auto imported from components/product/ProductCard.vue"
+  },
+  "ProductTitle": {
+    "description": "Auto imported from components/product/ProductTitle.vue"
+  }
+}
