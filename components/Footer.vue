@@ -15,7 +15,7 @@
             class="pt-0"
           >
             <a
-              href="https://www.facebook.com/rubynorno/"
+              href="https://www.facebook.com/recruto.ro/"
               aria-label="Gå til facebook"
             >
               <v-icon large>{{ mdiFacebook }}</v-icon>
@@ -28,7 +28,7 @@
             />
 
             <a
-              href="https://github.com/rubynor"
+              href="https://instagram.com/recruto.ro/"
               aria-label="Gå til github"
             >
               <v-icon large>{{ mdiInstagram }}</v-icon>
