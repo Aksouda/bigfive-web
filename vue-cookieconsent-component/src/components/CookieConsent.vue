@@ -56,7 +56,7 @@
       },
       message: {
         type: String,
-        default: 'masaaag'
+        default: 'This website uses cookies to ensure you get the best experience on our website.'
       },
       // button
       linkLabel: {
