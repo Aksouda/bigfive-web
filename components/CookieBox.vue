@@ -1,12 +1,9 @@
-<cookie-consent>
-  <template slot="message">
-    This website uses cookies
-    <a class="btn btn-link" href="/my-cookies">Read more</a>
-  </template>
-  <template slot="button">
-    <button class="btn btn-info">Accept</button>
-  </template>
-</cookie-consent>
+<template>
+  <CookieConsent
+    message="We use Cookies for user analysis and on-page improvements!"
+    link-label="Learn about cookies"
+  />
+</template>
 <script>
   import CookieConsent from '../vue-cookieconsent-component/src/components/CookieConsent.vue'
   export default {
