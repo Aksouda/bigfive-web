@@ -68,6 +68,7 @@
         </nuxt-link>.
         <TheCookieBox />
       </v-col>
+      <TheCookieBox />
     </v-row>
   </v-footer>
 </template>
