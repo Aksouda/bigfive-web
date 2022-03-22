@@ -50,6 +50,7 @@
             :src="require('@/assets/front.svg')"
           >
         </v-col>
+        <CookieBox />
       </v-row>
     </Wrapper>
     <Wrapper background="#e4e4e4">

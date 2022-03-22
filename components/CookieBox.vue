@@ -21,9 +21,10 @@
     justify-content: center;
     border-bottom: 1px solid white;
     color: white;
+    background: #455a64;
   }
   .cookie-consent button {
-    border: 1px solid white;
+    border: 1px solid black;
     padding: 10px;
     margin-left: 20px;
     min-width: 140px;

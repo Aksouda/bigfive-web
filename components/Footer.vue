@@ -67,7 +67,6 @@
           <a @click="logClick('FAQ')">FAQ</a>
         </nuxt-link>.
       </v-col>
-      <CookieBox />
     </v-row>
   </v-footer>
 </template>
