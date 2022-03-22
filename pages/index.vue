@@ -49,8 +49,7 @@
             alt="Girl infront of test"
             :src="require('@/assets/front.svg')"
           >
-        </v-col>
-        <CookieBox />
+        </v-col> 
       </v-row>
     </Wrapper>
     <Wrapper background="#e4e4e4">
@@ -68,7 +67,7 @@
           />
         </v-col>
         <v-col>
-          <Highlights />
+          <CookieBox />
         </v-col>
       </v-row>
     </Wrapper>
