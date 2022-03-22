@@ -67,7 +67,6 @@
           />
         </v-col>
         <v-col>
-          <CookieBox />
         </v-col>
       </v-row>
     </Wrapper>
