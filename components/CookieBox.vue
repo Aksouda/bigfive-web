@@ -5,7 +5,7 @@
   />
 </template>
 <script>
-  import CookieConsent from 'vue-cookieconsent-component/src/components/CookieConsent.vue'
+  import CookieConsent from './vue-cookieconsent-component/src/components/CookieConsent.vue'
   export default {
     components: {
       CookieConsent
