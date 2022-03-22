@@ -56,7 +56,7 @@
       },
       message: {
         type: String,
-        default: "{{ $t('frontpage.call_to_action') }}"
+        default: 'masaaag'
       },
       // button
       linkLabel: {
