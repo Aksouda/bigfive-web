@@ -24,7 +24,7 @@
     position: fixed;
     bottom:20px;
     background:black;
-    border-raduis:10px;
+    border-radius:10px;
   }
   .cookie-consent button {
     border: 1px solid white;
