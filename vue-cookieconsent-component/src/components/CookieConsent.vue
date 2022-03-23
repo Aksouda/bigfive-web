@@ -65,11 +65,11 @@
       },
       buttonLabel: {
         type: String,
-        default: 'Got it!'
+        default: 'Acceptă'
       },
       href: {
         type: String,
-        default: 'http://cookiesandyou.com'
+        default: 'http://recruto.ro.cookies'
       },
       target: {
         type: String,
