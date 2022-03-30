@@ -69,7 +69,7 @@
       },
       href: {
         type: String,
-        default: 'http://recruto.ro.cookies'
+        default: 'http://recruto.ro/cookies'
       },
       target: {
         type: String,
