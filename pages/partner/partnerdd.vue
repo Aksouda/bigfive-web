@@ -58,7 +58,7 @@
         >
          <script>
 
-var partner = window.location.href.substring(this.href.lastIndexOf('/') + 1);
+var partner = this.href.substring(this.href.lastIndexOf('/') + 1);
 console.log(partner);
 
 </script>
