@@ -58,7 +58,7 @@
         >
          <script>
 
-var partner = window.location.pathname.split("/").pop();
+var partner = window.location.pathname.split('/').pop();
 console.log(partner);
 
 </script>
