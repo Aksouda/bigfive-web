@@ -58,7 +58,7 @@
         >
          <script>
 
-var partner = this.href.substring(this.href.lastIndexOf('/') + 1);
+var partner = window.location.pathname.split("/").pop();
 console.log(partner);
 
 </script>
