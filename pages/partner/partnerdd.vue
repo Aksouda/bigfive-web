@@ -49,7 +49,28 @@
             alt="Girl infront of test"
             :src="require('@/assets/front.svg')"
           >
-        </v-col> 
+        </v-col>
+        <v-col
+          cols="12"
+          xs="12"
+          md="6"
+          class="text-center"
+        >
+         <script>
+
+var partner = window.location.href.substring(this.href.lastIndexOf('/') + 1);
+console.log(partner);
+
+</script>
+        <script> window.addEventListener('b24:form:init', function (event)  { let form = event.detail.object; if (form.identification.id == 18) { form.setProperty('partner', Conscientiousness);}}); </script>
+<script data-b24-form="inline/18/jbtjqj" data-skip-moving="true">
+        (function(w,d,u){
+                var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/180000|0);
+                var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+        })(window,document,'https://bitrix.monefy.ro/upload/crm/form/loader_18_jbtjqj.js');
+</script>
+
+        </v-col>
       </v-row>
     </Wrapper>
     <Wrapper background="#e4e4e4">
