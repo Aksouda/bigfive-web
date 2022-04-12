@@ -61,7 +61,7 @@ var Openness = document.getElementById('Openness To Experience').value;
 var Conscientiousness = document.getElementById('Conscientiousness').value;
 var Agreeableness = document.getElementById('Agreeableness').value;
 var testid = window.location.href;
-console.log(Openness);
+console.log(domain.title[1]);
 
 </script>
 
