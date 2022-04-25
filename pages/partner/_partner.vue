@@ -211,4 +211,7 @@ p {
 .default-width {
   max-width: 960px;
 }
+.d-flex{
+  flex-direction:column !important;
+}
 </style>
