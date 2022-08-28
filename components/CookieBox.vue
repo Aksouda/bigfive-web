@@ -9,10 +9,10 @@
   export default {
     components: {
       CookieConsent
-    }
+    },
     data: {
 		message1    : $t('frontpage.call_to_action')
-	},
+	}
   }
 </script>
 <style>
