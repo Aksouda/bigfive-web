@@ -1,6 +1,6 @@
 <template>
   <CookieConsent
-    message=  "message1"
+    message=  {{ message1 }}
     link-label="mai multe informatii"
   />
 </template>
