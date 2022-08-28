@@ -1,6 +1,6 @@
 <template>
   <CookieConsent
-    message=  {{ message1 }}
+    :message=  "$t('frontpage.call_to_action')"
     link-label="mai multe informatii"
   />
 </template>
@@ -9,10 +9,7 @@
   export default {
     components: {
       CookieConsent
-    },
-    data: {
-		message1    : $t('frontpage.call_to_action')
-	}
+    }
   }
 </script>
 <style>
