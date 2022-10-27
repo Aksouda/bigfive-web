@@ -43,7 +43,7 @@
     "vue-apexcharts": "1.6.0",
     "vue-confetti": "2.2.1",
     "vue-cookieconsent-component": "1.2.0",
-    "vue-template-compiler": "2.7.10"
+    "vue-template-compiler": "2.7.13"
   },
   "devDependencies": {
     "@mdi/js": "5.9.55",
