@@ -3,7 +3,7 @@
   "scope": "aksouda",
   "alias": ["verceltesturi.tk"],
   "env": {
-    "MONGODB_URI": "mongodb+srv://hamid:hamid12345@cluster0.maldw.mongodb.net/big5?retryWrites=true&w=majority",
+    "MONGODB_URI": "mongodb+srv://hamid:hamid12345@cluster0.maldw.mongodb.net/big6?retryWrites=true&w=majority",
     "MONGODB_COLLECTION": "results",
     "BASE_URL": "http://verceltesturi.tk"
   },
