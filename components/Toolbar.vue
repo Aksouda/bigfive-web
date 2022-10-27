@@ -13,7 +13,7 @@
               name="rotate"
             >
               <v-img
-                alt="BigFive logo"
+                alt="Recruto logo"
                 class="shrink mr-2"
                 contain
                 :src="logoSrc"
@@ -89,7 +89,7 @@ export default {
     const icons = { mdiMenu }
     return {
       drawer: false,
-      logoSrc: require('@/assets/logo.svg'),
+      logoSrc: require('@/assets/logo.png'),
       icons
     }
   },

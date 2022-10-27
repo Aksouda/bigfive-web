@@ -8,14 +8,14 @@
       >
         <v-row class="footer-wrapper pl-0">
           <v-col class="footer-heading">
-            SAY<br>HALLO
+            SAY<br>HELLO
           </v-col>
           <v-col
             cols="12"
             class="pt-0"
           >
             <a
-              href="https://www.facebook.com/recruto.ro/"
+              href="https://www.facebook.com/recruto.agency/"
               aria-label="Gå til facebook"
             >
               <v-icon large>{{ mdiFacebook }}</v-icon>
@@ -28,7 +28,7 @@
             />
 
             <a
-              href="https://instagram.com/recruto.ro/"
+              href="https://instagram.com/recruto.agency/"
               aria-label="Gå til github"
             >
               <v-icon large>{{ mdiInstagram }}</v-icon>
@@ -44,16 +44,16 @@
             cols="12"
             class="footer-about"
           >
-            Rubynor<br>
-            Bedriftsveien 64<br>
-            3735 Skien, Norway<br><br>
-            bigfive-test@rubynor.com<br>
+            Recruto<br>
+            <br>
+            <br><br>
+            info@recruto.agency<br>
           </v-col>
           <v-col
             class="footer-text"
             cols="12"
           >
-            © {{ new Date().getFullYear() }} — Rubynor - all rights reserved.
+            © {{ new Date().getFullYear() }} — Recruto - all rights reserved.
           </v-col>
         </v-row>
       </v-col>
@@ -68,7 +68,7 @@
         </nuxt-link>.
        
       </v-col> 
-      <CookieBox />
+      
     </v-row>
   </v-footer>
 </template>

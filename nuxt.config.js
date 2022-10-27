@@ -284,7 +284,7 @@ export default {
           warning: '#ff9800',
           info: '#03a9f4',
           success: '#7dde76',
-          anchor: '#ff0080'
+          anchor: '#665ec7'
         }
       }
     }
