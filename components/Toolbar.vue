@@ -7,7 +7,7 @@
     >
       <div class="toolbar-wrapper">
         <div class="d-flex align-center">
-          <nuxt-link :to="localePath('/')">
+          <nuxt-link :to="localePath('/test')">
             <transition
               appear
               name="rotate"
@@ -18,7 +18,7 @@
                 contain
                 :src="logoSrc"
                 transition="fade-transition"
-                width="40"
+                width="120"
               />
             </transition>
           </nuxt-link>
