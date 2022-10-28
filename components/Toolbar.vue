@@ -18,7 +18,7 @@
                 contain
                 :src="logoSrc"
                 transition="fade-transition"
-                width="120"
+                width="80"
               />
             </transition>
           </nuxt-link>
