@@ -55,7 +55,7 @@
               <v-icon>{{ icons.mdiMenu }}</v-icon>
             </v-btn>
           </template>
-          <v-list nav>
+          <!-- <v-list nav>
             <v-list-item>
               <v-subheader class="text-uppercase">
                 {{ $t('common.pages') }}
@@ -71,7 +71,7 @@
             >
               {{ item.title }}
             </v-list-item>
-          </v-list>
+          </v-list> -->
         </v-menu>
       </div>
     </v-app-bar>
