@@ -45,7 +45,7 @@
           offset-y
           min-width="150"
         >
-          <template #activator="{ on }">
+          <!-- <template #activator="{ on }">
             <v-btn
               icon
               aria-label="Expand menu"
@@ -54,7 +54,7 @@
             >
               <v-icon>{{ icons.mdiMenu }}</v-icon>
             </v-btn>
-          </template>
+          </template> -->
           <!-- <v-list nav>
             <v-list-item>
               <v-subheader class="text-uppercase">

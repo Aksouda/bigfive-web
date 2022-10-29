@@ -1,178 +1,178 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
-    <loc>https://recruto.agency/</loc>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://recruto.agency/no" />
-    <xhtml:link rel="alternate" hreflang="no" href="https://recruto.agency/no" />
-    <xhtml:link rel="alternate" hreflang="da" href="https://recruto.agency/da" />
-    <xhtml:link rel="alternate" hreflang="sv" href="https://recruto.agency/sv" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://recruto.agency/ar" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://recruto.agency/de" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://recruto.agency/ru" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://recruto.agency/es" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://recruto.agency/fr" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://recruto.agency/hi" />
-    <xhtml:link rel="alternate" hreflang="id" href="https://recruto.agency/id" />
-    <xhtml:link rel="alternate" hreflang="fi" href="https://recruto.agency/fi" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://recruto.agency/ja" />
-    <xhtml:link rel="alternate" hreflang="uk" href="https://recruto.agency/uk" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://recruto.agency/pt" />
-    <xhtml:link rel="alternate" hreflang="zh-hans" href="https://recruto.agency/zh-Hans" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://recruto.agency" />
+    <loc>https://test.recruto.agency/</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://test.recruto.agency/no" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://test.recruto.agency/no" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://test.recruto.agency/da" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://test.recruto.agency/sv" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://test.recruto.agency/ar" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://test.recruto.agency/de" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://test.recruto.agency/ru" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://test.recruto.agency/es" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://test.recruto.agency/fr" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://test.recruto.agency/hi" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://test.recruto.agency/id" />
+    <xhtml:link rel="alternate" hreflang="fi" href="https://test.recruto.agency/fi" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://test.recruto.agency/ja" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://test.recruto.agency/uk" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://test.recruto.agency/pt" />
+    <xhtml:link rel="alternate" hreflang="zh-hans" href="https://test.recruto.agency/zh-Hans" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://test.recruto.agency" />
   </url>
   <url>
-    <loc>https://recruto.agency/about</loc>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://recruto.agency/no/about" />
-    <xhtml:link rel="alternate" hreflang="no" href="https://recruto.agency/no/about" />
-    <xhtml:link rel="alternate" hreflang="da" href="https://recruto.agency/da/about" />
-    <xhtml:link rel="alternate" hreflang="sv" href="https://recruto.agency/sv/about" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://recruto.agency/ar/about" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://recruto.agency/de/about" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://recruto.agency/about" />
+    <loc>https://test.recruto.agency/about</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://test.recruto.agency/no/about" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://test.recruto.agency/no/about" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://test.recruto.agency/da/about" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://test.recruto.agency/sv/about" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://test.recruto.agency/ar/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://test.recruto.agency/de/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://test.recruto.agency/about" />
   </url>
   <url>
-    <loc>https://recruto.agency/agreeableness</loc>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://recruto.agency/no/agreeableness" />
-    <xhtml:link rel="alternate" hreflang="no" href="https://recruto.agency/no/agreeableness" />
-    <xhtml:link rel="alternate" hreflang="da" href="https://recruto.agency/da/agreeableness" />
-    <xhtml:link rel="alternate" hreflang="sv" href="https://recruto.agency/sv/agreeableness" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://recruto.agency/ar/agreeableness" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://recruto.agency/de/agreeableness" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://recruto.agency/agreeableness" />
+    <loc>https://test.recruto.agency/agreeableness</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://test.recruto.agency/no/agreeableness" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://test.recruto.agency/no/agreeableness" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://test.recruto.agency/da/agreeableness" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://test.recruto.agency/sv/agreeableness" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://test.recruto.agency/ar/agreeableness" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://test.recruto.agency/de/agreeableness" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://test.recruto.agency/agreeableness" />
   </url>
   <url>
-    <loc>https://recruto.agency/articles</loc>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://recruto.agency/no/articles" />
-    <xhtml:link rel="alternate" hreflang="no" href="https://recruto.agency/no/articles" />
-    <xhtml:link rel="alternate" hreflang="no" href="https://recruto.agency/da/articles" />
-    <xhtml:link rel="alternate" hreflang="sv" href="https://recruto.agency/sv/articles" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://recruto.agency/ar/articles" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://recruto.agency/de/articles" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://recruto.agency/articles" />
+    <loc>https://test.recruto.agency/articles</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://test.recruto.agency/no/articles" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://test.recruto.agency/no/articles" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://test.recruto.agency/da/articles" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://test.recruto.agency/sv/articles" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://test.recruto.agency/ar/articles" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://test.recruto.agency/de/articles" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://test.recruto.agency/articles" />
   </url>
   <url>
-    <loc>https://recruto.agency/big_five</loc>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://recruto.agency/no/big_five" />
-    <xhtml:link rel="alternate" hreflang="da" href="https://recruto.agency/da/big_five" />
-    <xhtml:link rel="alternate" hreflang="sv" href="https://recruto.agency/sv/big_five" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://recruto.agency/ar/big_five" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://recruto.agency/de/big_five" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://recruto.agency/big_five" />
+    <loc>https://test.recruto.agency/big_five</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://test.recruto.agency/no/big_five" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://test.recruto.agency/da/big_five" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://test.recruto.agency/sv/big_five" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://test.recruto.agency/ar/big_five" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://test.recruto.agency/de/big_five" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://test.recruto.agency/big_five" />
   </url>
   <url>
-    <loc>https://recruto.agency/compare</loc>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://recruto.agency/no/compare" />
-    <xhtml:link rel="alternate" hreflang="no" href="https://recruto.agency/no/compare" />
-    <xhtml:link rel="alternate" hreflang="da" href="https://recruto.agency/da/compare" />
-    <xhtml:link rel="alternate" hreflang="sv" href="https://recruto.agency/sv/compare" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://recruto.agency/ar/compare" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://recruto.agency/de/compare" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://recruto.agency/compare" />
+    <loc>https://test.recruto.agency/compare</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://test.recruto.agency/no/compare" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://test.recruto.agency/no/compare" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://test.recruto.agency/da/compare" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://test.recruto.agency/sv/compare" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://test.recruto.agency/ar/compare" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://test.recruto.agency/de/compare" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://test.recruto.agency/compare" />
   </url>
   <url>
-    <loc>https://recruto.agency/conscientiousness</loc>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://recruto.agency/no/conscientiousness" />
-    <xhtml:link rel="alternate" hreflang="no" href="https://recruto.agency/no/conscientiousness" />
-    <xhtml:link rel="alternate" hreflang="da" href="https://recruto.agency/da/conscientiousness" />
-    <xhtml:link rel="alternate" hreflang="sv" href="https://recruto.agency/sv/conscientiousness" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://recruto.agency/ar/conscientiousness" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://recruto.agency/de/conscientiousness" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://recruto.agency/conscientiousness" />
+    <loc>https://test.recruto.agency/conscientiousness</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://test.recruto.agency/no/conscientiousness" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://test.recruto.agency/no/conscientiousness" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://test.recruto.agency/da/conscientiousness" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://test.recruto.agency/sv/conscientiousness" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://test.recruto.agency/ar/conscientiousness" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://test.recruto.agency/de/conscientiousness" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://test.recruto.agency/conscientiousness" />
   </url>
   <url>
-    <loc>https://recruto.agency/extraversion</loc>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://recruto.agency/no/extraversion" />
-    <xhtml:link rel="alternate" hreflang="no" href="https://recruto.agency/no/extraversion" />
-    <xhtml:link rel="alternate" hreflang="da" href="https://recruto.agency/da/extraversion" />
-    <xhtml:link rel="alternate" hreflang="sv" href="https://recruto.agency/sv/extraversion" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://recruto.agency/ar/extraversion" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://recruto.agency/de/extraversion" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://recruto.agency/extraversion" />
+    <loc>https://test.recruto.agency/extraversion</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://test.recruto.agency/no/extraversion" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://test.recruto.agency/no/extraversion" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://test.recruto.agency/da/extraversion" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://test.recruto.agency/sv/extraversion" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://test.recruto.agency/ar/extraversion" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://test.recruto.agency/de/extraversion" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://test.recruto.agency/extraversion" />
   </url>
   <url>
-    <loc>https://recruto.agency/neuroticism</loc>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://recruto.agency/no/neuroticism" />
-    <xhtml:link rel="alternate" hreflang="no" href="https://recruto.agency/no/neuroticism" />
-    <xhtml:link rel="alternate" hreflang="da" href="https://recruto.agency/da/neuroticism" />
-    <xhtml:link rel="alternate" hreflang="sv" href="https://recruto.agency/sv/neuroticism" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://recruto.agency/ar/neuroticism" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://recruto.agency/de/neuroticism" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://recruto.agency/neuroticism" />
+    <loc>https://test.recruto.agency/neuroticism</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://test.recruto.agency/no/neuroticism" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://test.recruto.agency/no/neuroticism" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://test.recruto.agency/da/neuroticism" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://test.recruto.agency/sv/neuroticism" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://test.recruto.agency/ar/neuroticism" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://test.recruto.agency/de/neuroticism" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://test.recruto.agency/neuroticism" />
   </url>
   <url>
-    <loc>https://recruto.agency/openness_to_experience</loc>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://recruto.agency/no/openness_to_experience" />
-    <xhtml:link rel="alternate" hreflang="no" href="https://recruto.agency/no/openness_to_experience" />
-    <xhtml:link rel="alternate" hreflang="da" href="https://recruto.agency/da/openness_to_experience" />
-    <xhtml:link rel="alternate" hreflang="sv" href="https://recruto.agency/sv/openness_to_experience" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://recruto.agency/ar/openness_to_experience" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://recruto.agency/de/openness_to_experience" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://recruto.agency/openness_to_experience" />
+    <loc>https://test.recruto.agency/openness_to_experience</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://test.recruto.agency/no/openness_to_experience" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://test.recruto.agency/no/openness_to_experience" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://test.recruto.agency/da/openness_to_experience" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://test.recruto.agency/sv/openness_to_experience" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://test.recruto.agency/ar/openness_to_experience" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://test.recruto.agency/de/openness_to_experience" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://test.recruto.agency/openness_to_experience" />
   </url>
   <url>
-    <loc>https://recruto.agency/privacy</loc>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://recruto.agency/no/privacy" />
-    <xhtml:link rel="alternate" hreflang="no" href="https://recruto.agency/no/privacy" />
-    <xhtml:link rel="alternate" hreflang="da" href="https://recruto.agency/da/privacy" />
-    <xhtml:link rel="alternate" hreflang="sv" href="https://recruto.agency/sv/privacy" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://recruto.agency/ar/privacy" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://recruto.agency/de/privacy" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://recruto.agency/privacy" />
+    <loc>https://test.recruto.agency/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://test.recruto.agency/no/privacy" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://test.recruto.agency/no/privacy" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://test.recruto.agency/da/privacy" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://test.recruto.agency/sv/privacy" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://test.recruto.agency/ar/privacy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://test.recruto.agency/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://test.recruto.agency/privacy" />
   </url>
   <url>
-    <loc>https://recruto.agency/result</loc>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://recruto.agency/no/result" />
-    <xhtml:link rel="alternate" hreflang="no" href="https://recruto.agency/no/result" />
-    <xhtml:link rel="alternate" hreflang="da" href="https://recruto.agency/da/result" />
-    <xhtml:link rel="alternate" hreflang="sv" href="https://recruto.agency/sv/result" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://recruto.agency/ar/result" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://recruto.agency/de/result" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://recruto.agency/result" />
+    <loc>https://test.recruto.agency/result</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://test.recruto.agency/no/result" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://test.recruto.agency/no/result" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://test.recruto.agency/da/result" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://test.recruto.agency/sv/result" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://test.recruto.agency/ar/result" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://test.recruto.agency/de/result" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://test.recruto.agency/result" />
   </url>
   <url>
-    <loc>https://recruto.agency/test</loc>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://recruto.agency/no/test" />
-    <xhtml:link rel="alternate" hreflang="no" href="https://recruto.agency/no/test" />
-    <xhtml:link rel="alternate" hreflang="da" href="https://recruto.agency/da/test" />
-    <xhtml:link rel="alternate" hreflang="sv" href="https://recruto.agency/sv/test" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://recruto.agency/ar/test" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://recruto.agency/de/test" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://recruto.agency/test" />
+    <loc>https://test.recruto.agency/test</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://test.recruto.agency/no/test" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://test.recruto.agency/no/test" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://test.recruto.agency/da/test" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://test.recruto.agency/sv/test" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://test.recruto.agency/ar/test" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://test.recruto.agency/de/test" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://test.recruto.agency/test" />
   </url>
   <url>
-    <loc>https://recruto.agency/result/58a70606a835c400c8b38e84</loc>
-    <xhtml:link rel="alternate" hreflang="no" href="https://recruto.agency/no/result/58a70606a835c400c8b38e84" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://recruto.agency/result/58aa015414722d009f6be1e9" />
-    <xhtml:link rel="alternate" hreflang="da" href="https://recruto.agency/da/result/5e52f1d66d74ea00076a6d13" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://recruto.agency/de/result/5b105f54c0fffe005a0c775d" />
-    <xhtml:link rel="alternate" hreflang="el" href="https://recruto.agency/result/5e6618cfb5ff210008940590" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://recruto.agency/result/5b304f3bbe6411005a5e004c" />
-    <xhtml:link rel="alternate" hreflang="he" href="https://recruto.agency/result/5e661a44b5ff210008940592" />
-    <xhtml:link rel="alternate" hreflang="is" href="https://recruto.agency/result/59de60be696a13007a29bd45" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://recruto.agency/result/5bc214747d132c00bea8c98c" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://recruto.agency/result/58a72a64a835c400c8b38e88" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://recruto.agency/ar/result/5ece3e6a0f8ad40007f95153" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://recruto.agency/result/58a70606a835c400c8b38e84" />
+    <loc>https://test.recruto.agency/result/58a70606a835c400c8b38e84</loc>
+    <xhtml:link rel="alternate" hreflang="no" href="https://test.recruto.agency/no/result/58a70606a835c400c8b38e84" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://test.recruto.agency/result/58aa015414722d009f6be1e9" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://test.recruto.agency/da/result/5e52f1d66d74ea00076a6d13" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://test.recruto.agency/de/result/5b105f54c0fffe005a0c775d" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://test.recruto.agency/result/5e6618cfb5ff210008940590" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://test.recruto.agency/result/5b304f3bbe6411005a5e004c" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://test.recruto.agency/result/5e661a44b5ff210008940592" />
+    <xhtml:link rel="alternate" hreflang="is" href="https://test.recruto.agency/result/59de60be696a13007a29bd45" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://test.recruto.agency/result/5bc214747d132c00bea8c98c" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://test.recruto.agency/result/58a72a64a835c400c8b38e88" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://test.recruto.agency/ar/result/5ece3e6a0f8ad40007f95153" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://test.recruto.agency/result/58a70606a835c400c8b38e84" />
   </url>
   <url>
-    <loc>https://recruto.agency/compare/W3sibmFtZSI6Ik1hcnZpbiIsImlkIjoiNThhNzA2MDZhODM1YzQwMGM4YjM4ZTg0In0seyJuYW1lIjoiQXJ0aHVyIERlbnQiLCJpZCI6IjVlNTZiYTdhYjA5NjEzMDAwN2Q1ZDZkOCJ9LHsibmFtZSI6IkZvcmQgUGVyZmVjdCIsImlkIjoiNWRlYTllODhlMTA4Y2IwMDYyMTgzYWYzIn0seyJuYW1lIjoiU2xhcnRpYmFydGZhc3QiLCJpZCI6IjVlNTZiNjUwYjA5NjEzMDAwN2Q1ZDZkMCJ9XQ%3D%3D</loc>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://recruto.agency/no/compare/W3sibmFtZSI6Ik1hcnZpbiIsImlkIjoiNThhNzA2MDZhODM1YzQwMGM4YjM4ZTg0In0seyJuYW1lIjoiQXJ0aHVyIERlbnQiLCJpZCI6IjVlNTZiYTdhYjA5NjEzMDAwN2Q1ZDZkOCJ9LHsibmFtZSI6IkZvcmQgUGVyZmVjdCIsImlkIjoiNWRlYTllODhlMTA4Y2IwMDYyMTgzYWYzIn0seyJuYW1lIjoiU2xhcnRpYmFydGZhc3QiLCJpZCI6IjVlNTZiNjUwYjA5NjEzMDAwN2Q1ZDZkMCJ9XQ%3D%3D" />
-    <xhtml:link rel="alternate" hreflang="no" href="https://recruto.agency/no/compare/W3sibmFtZSI6Ik1hcnZpbiIsImlkIjoiNThhNzA2MDZhODM1YzQwMGM4YjM4ZTg0In0seyJuYW1lIjoiQXJ0aHVyIERlbnQiLCJpZCI6IjVlNTZiYTdhYjA5NjEzMDAwN2Q1ZDZkOCJ9LHsibmFtZSI6IkZvcmQgUGVyZmVjdCIsImlkIjoiNWRlYTllODhlMTA4Y2IwMDYyMTgzYWYzIn0seyJuYW1lIjoiU2xhcnRpYmFydGZhc3QiLCJpZCI6IjVlNTZiNjUwYjA5NjEzMDAwN2Q1ZDZkMCJ9XQ%3D%3D" />
-    <xhtml:link rel="alternate" hreflang="da" href="https://recruto.agency/da/compare/W3sibmFtZSI6Ik1hcnZpbiIsImlkIjoiNThhNzA2MDZhODM1YzQwMGM4YjM4ZTg0In0seyJuYW1lIjoiQXJ0aHVyIERlbnQiLCJpZCI6IjVlNTZiYTdhYjA5NjEzMDAwN2Q1ZDZkOCJ9LHsibmFtZSI6IkZvcmQgUGVyZmVjdCIsImlkIjoiNWRlYTllODhlMTA4Y2IwMDYyMTgzYWYzIn0seyJuYW1lIjoiU2xhcnRpYmFydGZhc3QiLCJpZCI6IjVlNTZiNjUwYjA5NjEzMDAwN2Q1ZDZkMCJ9XQ%3D%3D" />
-    <xhtml:link rel="alternate" hreflang="sv" href="https://recruto.agency/sv/compare/W3sibmFtZSI6Ik1hcnZpbiIsImlkIjoiNThhNzA2MDZhODM1YzQwMGM4YjM4ZTg0In0seyJuYW1lIjoiQXJ0aHVyIERlbnQiLCJpZCI6IjVlNTZiYTdhYjA5NjEzMDAwN2Q1ZDZkOCJ9LHsibmFtZSI6IkZvcmQgUGVyZmVjdCIsImlkIjoiNWRlYTllODhlMTA4Y2IwMDYyMTgzYWYzIn0seyJuYW1lIjoiU2xhcnRpYmFydGZhc3QiLCJpZCI6IjVlNTZiNjUwYjA5NjEzMDAwN2Q1ZDZkMCJ9XQ%3D%3D" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://recruto.agency/ar/compare/W3sibmFtZSI6IlBlcnNvbiAxIiwiaWQiOiI1ZWNlM2U2YTBmOGFkNDAwMDdmOTUxNTMifSx7Im5hbWUiOiJQZXJzb24gMiIsImlkIjoiNThhNzA2MDZhODM1YzQwMGM4YjM4ZTg0In1d" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://recruto.agency/de/compare/W3sibmFtZSI6ImFkcyIsImlkIjoiNWVkOTU3YTIxZGQ4NmMwMDA3NTIwZWUyIn0seyJuYW1lIjoiYXNkMiIsImlkIjoiNWVkOTU3YTIxZGQ4NmMwMDA3NTIwZWUyIn1d" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://recruto.agency/compare/W3sibmFtZSI6Ik1hcnZpbiIsImlkIjoiNThhNzA2MDZhODM1YzQwMGM4YjM4ZTg0In0seyJuYW1lIjoiQXJ0aHVyIERlbnQiLCJpZCI6IjVlNTZiYTdhYjA5NjEzMDAwN2Q1ZDZkOCJ9LHsibmFtZSI6IkZvcmQgUGVyZmVjdCIsImlkIjoiNWRlYTllODhlMTA4Y2IwMDYyMTgzYWYzIn0seyJuYW1lIjoiU2xhcnRpYmFydGZhc3QiLCJpZCI6IjVlNTZiNjUwYjA5NjEzMDAwN2Q1ZDZkMCJ9XQ%3D%3D" />
+    <loc>https://test.recruto.agency/compare/W3sibmFtZSI6Ik1hcnZpbiIsImlkIjoiNThhNzA2MDZhODM1YzQwMGM4YjM4ZTg0In0seyJuYW1lIjoiQXJ0aHVyIERlbnQiLCJpZCI6IjVlNTZiYTdhYjA5NjEzMDAwN2Q1ZDZkOCJ9LHsibmFtZSI6IkZvcmQgUGVyZmVjdCIsImlkIjoiNWRlYTllODhlMTA4Y2IwMDYyMTgzYWYzIn0seyJuYW1lIjoiU2xhcnRpYmFydGZhc3QiLCJpZCI6IjVlNTZiNjUwYjA5NjEzMDAwN2Q1ZDZkMCJ9XQ%3D%3D</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://test.recruto.agency/no/compare/W3sibmFtZSI6Ik1hcnZpbiIsImlkIjoiNThhNzA2MDZhODM1YzQwMGM4YjM4ZTg0In0seyJuYW1lIjoiQXJ0aHVyIERlbnQiLCJpZCI6IjVlNTZiYTdhYjA5NjEzMDAwN2Q1ZDZkOCJ9LHsibmFtZSI6IkZvcmQgUGVyZmVjdCIsImlkIjoiNWRlYTllODhlMTA4Y2IwMDYyMTgzYWYzIn0seyJuYW1lIjoiU2xhcnRpYmFydGZhc3QiLCJpZCI6IjVlNTZiNjUwYjA5NjEzMDAwN2Q1ZDZkMCJ9XQ%3D%3D" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://test.recruto.agency/no/compare/W3sibmFtZSI6Ik1hcnZpbiIsImlkIjoiNThhNzA2MDZhODM1YzQwMGM4YjM4ZTg0In0seyJuYW1lIjoiQXJ0aHVyIERlbnQiLCJpZCI6IjVlNTZiYTdhYjA5NjEzMDAwN2Q1ZDZkOCJ9LHsibmFtZSI6IkZvcmQgUGVyZmVjdCIsImlkIjoiNWRlYTllODhlMTA4Y2IwMDYyMTgzYWYzIn0seyJuYW1lIjoiU2xhcnRpYmFydGZhc3QiLCJpZCI6IjVlNTZiNjUwYjA5NjEzMDAwN2Q1ZDZkMCJ9XQ%3D%3D" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://test.recruto.agency/da/compare/W3sibmFtZSI6Ik1hcnZpbiIsImlkIjoiNThhNzA2MDZhODM1YzQwMGM4YjM4ZTg0In0seyJuYW1lIjoiQXJ0aHVyIERlbnQiLCJpZCI6IjVlNTZiYTdhYjA5NjEzMDAwN2Q1ZDZkOCJ9LHsibmFtZSI6IkZvcmQgUGVyZmVjdCIsImlkIjoiNWRlYTllODhlMTA4Y2IwMDYyMTgzYWYzIn0seyJuYW1lIjoiU2xhcnRpYmFydGZhc3QiLCJpZCI6IjVlNTZiNjUwYjA5NjEzMDAwN2Q1ZDZkMCJ9XQ%3D%3D" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://test.recruto.agency/sv/compare/W3sibmFtZSI6Ik1hcnZpbiIsImlkIjoiNThhNzA2MDZhODM1YzQwMGM4YjM4ZTg0In0seyJuYW1lIjoiQXJ0aHVyIERlbnQiLCJpZCI6IjVlNTZiYTdhYjA5NjEzMDAwN2Q1ZDZkOCJ9LHsibmFtZSI6IkZvcmQgUGVyZmVjdCIsImlkIjoiNWRlYTllODhlMTA4Y2IwMDYyMTgzYWYzIn0seyJuYW1lIjoiU2xhcnRpYmFydGZhc3QiLCJpZCI6IjVlNTZiNjUwYjA5NjEzMDAwN2Q1ZDZkMCJ9XQ%3D%3D" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://test.recruto.agency/ar/compare/W3sibmFtZSI6IlBlcnNvbiAxIiwiaWQiOiI1ZWNlM2U2YTBmOGFkNDAwMDdmOTUxNTMifSx7Im5hbWUiOiJQZXJzb24gMiIsImlkIjoiNThhNzA2MDZhODM1YzQwMGM4YjM4ZTg0In1d" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://test.recruto.agency/de/compare/W3sibmFtZSI6ImFkcyIsImlkIjoiNWVkOTU3YTIxZGQ4NmMwMDA3NTIwZWUyIn0seyJuYW1lIjoiYXNkMiIsImlkIjoiNWVkOTU3YTIxZGQ4NmMwMDA3NTIwZWUyIn1d" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://test.recruto.agency/compare/W3sibmFtZSI6Ik1hcnZpbiIsImlkIjoiNThhNzA2MDZhODM1YzQwMGM4YjM4ZTg0In0seyJuYW1lIjoiQXJ0aHVyIERlbnQiLCJpZCI6IjVlNTZiYTdhYjA5NjEzMDAwN2Q1ZDZkOCJ9LHsibmFtZSI6IkZvcmQgUGVyZmVjdCIsImlkIjoiNWRlYTllODhlMTA4Y2IwMDYyMTgzYWYzIn0seyJuYW1lIjoiU2xhcnRpYmFydGZhc3QiLCJpZCI6IjVlNTZiNjUwYjA5NjEzMDAwN2Q1ZDZkMCJ9XQ%3D%3D" />
   </url>
   <url>
-    <loc>https://recruto.agency/result/58a7230da835c400c8b38e87</loc>
-    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://recruto.agency/no/result/58a7230da835c400c8b38e87" />
-    <xhtml:link rel="alternate" hreflang="no" href="https://recruto.agency/no/result/58a7230da835c400c8b38e87" />
-    <xhtml:link rel="alternate" hreflang="da" href="https://recruto.agency/da/result/58a7230da835c400c8b38e87" />
-    <xhtml:link rel="alternate" hreflang="sv" href="https://recruto.agency/sv/result/58a7230da835c400c8b38e87" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://recruto.agency/result/58a7230da835c400c8b38e87" />
+    <loc>https://test.recruto.agency/result/58a7230da835c400c8b38e87</loc>
+    <xhtml:link rel="alternate" hreflang="nb-NO" href="https://test.recruto.agency/no/result/58a7230da835c400c8b38e87" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://test.recruto.agency/no/result/58a7230da835c400c8b38e87" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://test.recruto.agency/da/result/58a7230da835c400c8b38e87" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://test.recruto.agency/sv/result/58a7230da835c400c8b38e87" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://test.recruto.agency/result/58a7230da835c400c8b38e87" />
   </url>
   <url>
-    <loc>https://recruto.agency/faq</loc>
+    <loc>https://test.recruto.agency/faq</loc>
   </url>
 </urlset>
