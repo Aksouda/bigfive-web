@@ -45,8 +45,9 @@
             class="footer-about"
           >
             Recruto<br>
-            <br>
-            <br><br>
+            615 Hope Rd #3B <br>
+            Eatontown, NJ 07724<br>
+            United States<br>
             info@recruto.agency<br>
           </v-col>
           <v-col
